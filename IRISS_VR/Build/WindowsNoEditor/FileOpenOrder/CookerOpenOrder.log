@@ -1,0 +1,510 @@
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/Conductive_Component.uasset" 0
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/SpawnPoint.uasset" 1
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/ItemRecovery.uasset" 2
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 3
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 4
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 5
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 6
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 7
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/GripEnum.uasset" 8
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 9
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 10
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/PickupActorInterface.uasset" 11
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/MotionControllerHaptics.uasset" 12
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 13
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 15
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 17
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 18
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 19
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Materials/TeleportMCP.uasset" 20
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 21
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 22
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 23
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 24
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 25
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 27
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 28
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 29
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 30
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 31
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 32
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 33
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 34
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 35
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 36
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 37
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 38
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Meshes/1x1_cube.uasset" 39
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Meshes/BeaconDirection.uasset" 40
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Meshes/BeamMesh.uasset" 41
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 42
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_MotionController.uasset" 43
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Bolt.uasset" 44
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/Bolt.uasset" 45
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Handle_Base_Color.uasset" 46
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Handle_Height.uasset" 47
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Handle_Metallic.uasset" 48
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Handle_Normal_OpenGL.uasset" 49
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Handle_Roughness.uasset" 50
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_SwitchGear_Internals_Plate.uasset" 51
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SwitchGear/SM_SwitchGear_Internals_Front.uasset" 52
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_SwitchGear_Internals_Front.uasset" 53
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/T_PowderCoat_Base_Color.uasset" 54
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/T_PowderCoat_Metallic.uasset" 55
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/T_PowderCoat_Roughness.uasset" 56
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_PowderCoat.uasset" 57
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_SwitchGear_Frame.uasset" 58
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Internals2_Base_Color.uasset" 59
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_SwitchGear_Internals.uasset" 60
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Overall_Base_Color.uasset" 61
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Overall_Height.uasset" 62
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Overall_Metallic.uasset" 63
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Overall_Normal_OpenGL.uasset" 64
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Overall_Roughness.uasset" 65
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_SwitchGear_Internals_Box.uasset" 66
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 67
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/NormalTexture_MF.uasset" 68
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/ThermalTexture_MF.uasset" 69
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/Hero_MAT.uasset" 70
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/Hero_Thermal_MI.uasset" 71
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SwitchGear/SM_SwitchGear.uasset" 72
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SwitchGear/SM_SwitchGear_Frame.uasset" 73
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/T_Internal_Thermal.uasset" 74
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/M_TESTING_Thermal.uasset" 75
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SwitchGear/SM_SwitchGear_Internals.uasset" 76
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/Hero_MI.uasset" 77
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SwitchGear/SM_SwitchGear_InternalsBox.uasset" 78
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/SwitchGear/BP_SwitchGear.uasset" 79
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/Green.uasset" 80
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/Red.uasset" 81
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/SwitchGear_Int/SwitchGear_Internals_polySurface8.uasset" 82
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/StarterContent/Materials/M_Basic_Wall.uasset" 83
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/StarterContent/Shapes/Shape_Plane.uasset" 84
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_Switch.uasset" 85
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_Holes.uasset" 86
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/BoltHole.uasset" 87
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Templates/CAP-12-CUTOUT.uasset" 88
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Templates/M_Template.uasset" 89
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Templates/SM_Template_CAP_12.uasset" 90
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SwitchGear/SM_SwitchGear_Panel.uasset" 91
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_SwitchPanel.uasset" 92
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Cap_12_Base_Color.uasset" 93
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Cap_12_Metallic.uasset" 94
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Cap_12_Normal_OpenGL.uasset" 95
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Cap_12_Roughness.uasset" 96
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Cap_12.uasset" 97
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Screws_Base_Color.uasset" 98
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Screws_Metallic.uasset" 99
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Screws_Normal_OpenGL.uasset" 100
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Screws_Roughness.uasset" 101
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Screws.uasset" 102
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/CAP-ENV-12_polySurface74.uasset" 103
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Gasket_Base_Color.uasset" 104
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Gasket_Metallic.uasset" 105
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Gasket_Normal_OpenGL.uasset" 106
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Gasket_Roughness.uasset" 107
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/Gasket.uasset" 108
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/CAP-ENV-12_polySurface82.uasset" 109
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/CAP-ENV-12_polySurface83.uasset" 110
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CAP-ENV-12/CAP-ENV-12_polySurface84.uasset" 111
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_PickupWindow.uasset" 112
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/SummonItem.uasset" 113
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/Black.uasset" 114
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Bolts_Base_Color.uasset" 115
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Bolts_Metallic.uasset" 116
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Bolts_Normal.uasset" 117
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Bolts_Roughness.uasset" 118
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/Bolts.uasset" 119
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 120
+"../../../Engine/Content/BasicShapes/Cone.uasset" 121
+"../../../Engine/Content/BasicShapes/Plane.uasset" 122
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 123
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 124
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 125
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 126
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 127
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 128
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 129
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 130
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 131
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 132
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 133
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 134
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 135
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 136
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 137
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 138
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 139
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 140
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 141
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 142
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 143
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 144
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 145
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 146
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 147
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 148
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 149
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 150
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 151
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 152
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 153
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 154
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 155
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 156
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 157
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 158
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 159
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 160
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 161
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 162
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 163
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 164
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 165
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 166
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 167
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 168
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 169
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 170
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 171
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 172
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 173
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 174
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 175
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 176
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 177
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 178
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 179
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 180
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 181
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 182
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 183
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 184
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 185
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 186
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 187
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 188
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 189
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 190
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 191
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 192
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 193
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 194
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 195
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 196
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 197
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 198
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 199
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 200
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 201
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 202
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 203
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 204
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 205
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 206
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 207
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 208
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 209
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 210
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 211
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 212
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 213
+"../../../Engine/Content/EngineResources/Black.uasset" 214
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 215
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 216
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 217
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 218
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 219
+"../../../Engine/Content/EngineSounds/Master.uasset" 220
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 221
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 222
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 223
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 224
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 225
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 226
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 227
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 228
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 229
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 230
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 231
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 232
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 233
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 234
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 235
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 236
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 237
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 238
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 239
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 240
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 241
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 242
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 243
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 244
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 245
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 246
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 247
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 248
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 249
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 250
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 251
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 252
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 253
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 254
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 255
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 256
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 257
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 258
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 259
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 260
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 261
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 262
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 263
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 264
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 265
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 266
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 267
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 268
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 269
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 270
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 271
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 272
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 273
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 274
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 275
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 276
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 277
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 278
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 279
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 280
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 281
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 282
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 283
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 284
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/VirtualReality-Archive/SnapPoint.uasset" 285
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Wall_Base_Color.uasset" 286
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Wall_Height.uasset" 287
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Wall_Metallic.uasset" 288
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Wall_Normal.uasset" 289
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Wall_Normal_OpenGL.uasset" 290
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Wall_Roughness.uasset" 291
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Wall.uasset" 292
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Textures/LUT_Thermal.uasset" 293
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/PPThermal_TEST.uasset" 294
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/Thermal_TEST_MI.uasset" 295
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/NewMaterialParameterCollection.uasset" 296
+"../../../Engine/Content/BasicShapes/Cube.uasset" 297
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Door1_Base_Color.uasset" 298
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Door1_Base_Color.uasset" 299
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Door1_Metallic.uasset" 300
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Door1_Normal.uasset" 301
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Door1_Roughness.uasset" 302
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Door1.uasset" 303
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Door_Door2.uasset" 304
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/DoorHandle_Base_Color.uasset" 305
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/DoorHandle_Metallic.uasset" 306
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/DoorHandle_Normal.uasset" 307
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/DoorHandle_Roughness.uasset" 308
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/DoorHandle.uasset" 309
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Door_Handle.uasset" 310
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Sounds/industrial_power_plant_ambience_trim.uasset" 311
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/SwitchGear_Int/SwitchGear_Front_Internals.uasset" 312
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Internals1.uasset" 313
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/SwitchGear_Int/SwitchGear_Internals_Frame.uasset" 314
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/c_1.uasset" 315
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/SwitchGear_Int/SwitchGear_Internals_polySurface3784.uasset" 316
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/SwitchGear_Int/SwitchGear_Internals_polySurface3883.uasset" 317
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/SwitchGear_Int/SwitchGear_Internals_polySurface3884.uasset" 318
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/SwitchGear_Full_Front.uasset" 319
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/SwitchGear_Full_Front_Metalness.uasset" 320
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/SwitchGear_Full_Front_Roughness.uasset" 321
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Switchgear-Updated.uasset" 322
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/SwitchGear_SeperateFrontUV_SwitchGear.uasset" 323
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/SwitchGear_Full_Front_Template.uasset" 324
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/SwitchGear_Full_Front_Template_Roughness.uasset" 325
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/switchgear_panel-label.uasset" 326
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/SwitchGear_SeperateFrontUV_SwitchGearDoor.uasset" 327
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Legs_Base_Color.uasset" 328
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Legs_Height.uasset" 329
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Legs_Metallic.uasset" 330
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Legs_Normal.uasset" 331
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Legs_Normal_OpenGL.uasset" 332
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Legs_Roughness.uasset" 333
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Legs.uasset" 334
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Tools/Table_Legs1.uasset" 335
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Maps/CAP-Installation-Room.umap" 336
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Maps/Installation.umap" 337
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SM_Cutout.uasset" 338
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_CutOut.uasset" 339
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_Holes.uasset" 340
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 341
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/Outlines/M_Outline.uasset" 342
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Drill-mat.uasset" 343
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Drill-mat_ncl1_1.uasset" 344
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Drill-mat_ncl1_10.uasset" 345
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Drill-mat_ncl1_12.uasset" 346
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Drill-mat_ncl1_13.uasset" 347
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Drill_Label.uasset" 348
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Drill-mat_ncl1_4.uasset" 349
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/CordlessDrill.uasset" 350
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Sounds/drill_01.uasset" 351
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_DrillBit.uasset" 352
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SM_DrillBit.uasset" 353
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_Drill.uasset" 354
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_GearSpawn.uasset" 355
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/Base_Grey.uasset" 356
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_Reset.uasset" 357
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/AG_Black.uasset" 358
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_SpawnSwitch.uasset" 359
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Switchgear_Base_Color.uasset" 360
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Switchgear2.uasset" 361
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/HoleCutOut.uasset" 362
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/HoleCutOutPanel.uasset" 363
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Switchgear.uasset" 364
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/SwitchGear_Int/SwitchGear_SwitchGear.uasset" 365
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/SwitchGear/BP_SwitchGear_2.uasset" 366
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Switchgear3.uasset" 367
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/SwitchGear/BP_SwitchGear_3.uasset" 368
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/StarterContent/Materials/M_AssetPlatform.uasset" 369
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SM_PodiumBottom.uasset" 370
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/test.uasset" 371
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/MAT_SelectionMenu.uasset" 372
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SM_PodiumFace.uasset" 373
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SM_PodiumPillar.uasset" 374
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_GearSelectionMenu.uasset" 375
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/Alpha.uasset" 376
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Templates/M_Template_Cutout.uasset" 377
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Templates/SM_Template_CAP_12_Cutout.uasset" 378
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SwitchGear/SM_SwitchGear_Panel_Cutout.uasset" 379
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/Templates/BP_TemplateCut.uasset" 380
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/Templates/BP_Template.uasset" 381
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Floor_Roughness.uasset" 382
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/AG_Blade.uasset" 383
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/AG_Blue.uasset" 384
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/AG_Drk_Grey.uasset" 385
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/AG_Grey.uasset" 386
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/lambert1.uasset" 387
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/AngleGrinder.uasset" 388
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Sounds/angle-grinder_01_01.uasset" 389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 390
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Particles/Materials/M_Radial_Gradient.uasset" 391
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Particles/Materials/M_smoke_subUV.uasset" 392
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Particles/Materials/M_Spark.uasset" 393
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Particles/P_Sparks.uasset" 394
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_Grinder.uasset" 395
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Lock_Tag_Base_Color.uasset" 396
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Lock_Tag_Height.uasset" 397
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Lock_Tag_Metallic.uasset" 398
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Lock_Tag_Normal_OpenGL.uasset" 399
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Lock_Tag_Roughness.uasset" 400
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/LockoutTag_Texture.uasset" 401
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/MetalRing_Base_Color.uasset" 402
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/MetalRing_Height.uasset" 403
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/MetalRing_Metallic.uasset" 404
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/MetalRing_Normal.uasset" 405
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/MetalRing_Normal_OpenGL.uasset" 406
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/MetalRing_Roughness.uasset" 407
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/MetalRing_Tag_Mat.uasset" 408
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Tag1_Base_Color.uasset" 409
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Tag1_Height.uasset" 410
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Tag1_Metallic.uasset" 411
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Tag1_Normal.uasset" 412
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Tag1_Normal_OpenGL.uasset" 413
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Tag1_Roughness.uasset" 414
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Paper_Tag_Mat.uasset" 415
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Tools/Lockout_Tag.uasset" 416
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/PadLock_5_14_18_c_1_Base_Color.uasset" 417
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/blinn1.uasset" 418
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Tools/PadLock.uasset" 419
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Tools/PaperTag_MetalRing1.uasset" 420
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Tools/PaperTag_Tag2.uasset" 421
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/BP_LockoutTag.uasset" 422
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Connectors_Base_Color.uasset" 423
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Connectors_Metallic.uasset" 424
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Connectors_Roughness.uasset" 425
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Connectors.uasset" 426
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Tools/Light_Connectors1.uasset" 427
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Cover_Base_Color.uasset" 428
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Cover_Metallic.uasset" 429
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Cover_Roughness.uasset" 430
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Cover.uasset" 431
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Tools/Light_Cover1.uasset" 432
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Lights_Base_Color.uasset" 433
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Lights_Metallic.uasset" 434
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Lights_Roughness.uasset" 435
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Lights.uasset" 436
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Tools/Light_Lights1.uasset" 437
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/Light.uasset" 438
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/Textures/whitr-glossy-rectangle-button-md.uasset" 439
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/MenuButton.uasset" 440
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/Textures/whitr-glossy-rectangle-button-md-dark.uasset" 441
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/MenuButtonDark.uasset" 442
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/MainMenuActor.uasset" 443
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/MotionControllerPawn.uasset" 444
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/SwitchGear/BP_SwitchGearTEST.uasset" 445
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/Templates/BP_Template_CAP_ENV_12.uasset" 446
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/ShockStick2_Base_Color.uasset" 447
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/ShockStick2_Metallic.uasset" 448
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/ShockStick2_Normal.uasset" 449
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/ShockStick2_Roughness.uasset" 450
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/ShockStick2.uasset" 451
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/ShockStick.uasset" 452
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/Test_Wand.uasset" 453
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_TextFont.uasset" 454
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/ThermalCamera_TEST.uasset" 455
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/Reticule.uasset" 456
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/M_ThermalCamera_View.uasset" 457
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/FX/ThermalVisionFX/Materials/MI_ThermalCamera_View.uasset" 458
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 459
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 460
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 461
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/ThermalCameraView.uasset" 462
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/ThermalCamera_BP.uasset" 463
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Windows/SM_Latch.uasset" 464
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/Windows/BP_CAP_ENV_12_Lock.uasset" 465
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Windows/CAP_ENV_12/SM_CAP_ENV_12_Base.uasset" 466
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Windows/CAP_ENV_12/SM_CAP_ENV_12_Door.uasset" 467
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/T_Gasket_Base_Color.uasset" 468
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/T_Gasket_Metallic.uasset" 469
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/T_Gasket_Normal_OpenGL.uasset" 470
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Textures/T_Gasket_Roughness.uasset" 471
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_Gasket.uasset" 472
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Windows/CAP_ENV_12/SM_CAP_ENV_12_gasket.uasset" 473
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Windows/CAP_ENV_12/SM_CAP_ENV_12_Hinge.uasset" 474
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/Windows/CAP_ENV_12/SM_CAP_ENV_12_Screws.uasset" 475
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Blueprints/Windows/BP_CAP_ENV_12.uasset" 476
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Maps/InstallationRoom_BuiltData.uasset" 477
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Roof_Base_Color.uasset" 478
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Roof_Metallic.uasset" 479
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Roof_Normal.uasset" 480
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Roof_Roughness.uasset" 481
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/Roof1.uasset" 482
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 483
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 484
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/StarterContent/Textures/T_MacroVariation.uasset" 485
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 486
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_Concrete_Poured.uasset" 487
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/Textures/T_Concrete_Poured_N.uasset" 488
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/Walls_MAT.uasset" 489
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Floor_Base_Color.uasset" 490
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Floor_Metallic.uasset" 491
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Floor_Normal.uasset" 492
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Materials/M_Floor.uasset" 493
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SM_Floor.uasset" 494
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Tabletop_Base_Color.uasset" 495
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/TableTop_Height.uasset" 496
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Tabletop_Metallic.uasset" 497
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Tabletop_Normal.uasset" 498
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/Tabletop_Normal_OpenGL.uasset" 499
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Textures/TableTop_Roughness.uasset" 500
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Import/Materials/TableTop.uasset" 501
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Meshes/SM_Table_TableTop.uasset" 502
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 503
+"../../../../../../Users/j.aquino/Documents/Unreal Projects/IRISS_VR/Content/Maps/InstallationRoom.umap" 504
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 505
+"../../../Engine/Content/Maps/Entry.umap" 506
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 507
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 508
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 509

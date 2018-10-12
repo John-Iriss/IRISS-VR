@@ -1,0 +1,16 @@
+﻿  Creating makefile for IRISS_VREditor (no existing makefile)
+  Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for IRISS_VREditor
+    Running UnrealHeaderTool "C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\IRISS_VR.uproject" "C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\IRISS_VREditor\Development\IRISS_VREditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for IRISS_VREditor in 10.9797539 seconds
+  Building 6 actions with 8 processes...
+    [1/6] IRISS_VR.init.gen.cpp
+    [2/6] IRISS_VR.cpp
+    [3/6] IRISS_VRGameModeBase.cpp
+    [4/6] IRISS_VRGameModeBase.gen.cpp
+    [5/6] UE4Editor-IRISS_VR.lib
+       Creating library C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\UE4Editor\Development\IRISS_VR\UE4Editor-IRISS_VR.lib and object C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\UE4Editor\Development\IRISS_VR\UE4Editor-IRISS_VR.exp
+    [6/6] UE4Editor-IRISS_VR.dll
+       Creating library C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\UE4Editor\Development\IRISS_VR\UE4Editor-IRISS_VR.suppressed.lib and object C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\UE4Editor\Development\IRISS_VR\UE4Editor-IRISS_VR.suppressed.exp
+  Deploying IRISS_VREditor Win64 Development...
+  Total build time: 68.63 seconds (Parallel executor: 3.07 seconds)

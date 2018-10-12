@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-IRISS_VR-1009.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\IRISS_VREditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\UE4Editor\Development\IRISS_VR\IRISS_VR.cpp.obj"
+"C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\UE4Editor\Development\IRISS_VR\IRISS_VRGameModeBase.cpp.obj"
+"C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\UE4Editor\Development\IRISS_VR\IRISS_VR.init.gen.cpp.obj"
+"C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\UE4Editor\Development\IRISS_VR\IRISS_VRGameModeBase.gen.cpp.obj"
+"C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\UE4Editor\Development\IRISS_VR\PCLaunch.rc.res"
+/OUT:"C:\Users\j.aquino\Documents\Unreal Projects\IRISS_VR\Intermediate\Build\Win64\UE4Editor\Development\IRISS_VR\UE4Editor-IRISS_VR-1009.lib"
